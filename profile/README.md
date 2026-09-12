@@ -2,6 +2,8 @@
 
 **A Michigan non-profit organization dedicated to teaching motorcycle safety to young adults in honor of Sam Gross.**
 
+![logo](https://cdn.discordapp.com/attachments/764688949586821151/1548322905681825842/Untitled_-_2026-09-10T201033.149_2.png?ex=6aa6a393&is=6aa55213&hm=4b925d4ad4ddd84cda06889749c6d31e4c23e298647df782b84c11b4c7c7cbd4)
+
 ---
 
 ## About
