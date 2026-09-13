@@ -37,3 +37,5 @@ We welcome contributions from developers, educators, riders, and community membe
 ---
 
 *In memory of Sam Gross. Ride safe. Slow down.*
+
+![banner](https://github.com/Slow-Down-4-Sam/branding/blob/main/slowdown4sam_banner.png?raw=true)
